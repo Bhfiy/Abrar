@@ -1,0 +1,52 @@
+h1{
+    width: 400px;
+    height: 200px;
+    background-color: pink;
+    padding: 40px;
+    /* first method, 40px overall*/
+
+    padding: 50px 40px;
+    /* second method, 50px width 40px height */
+
+    padding-top: 20px;
+    /* same with other sides */
+
+    /* MARGIN */
+    margin: 20px;
+    margin-top: 20px;
+    /* same with other sides */
+
+    border: 2px solid black;
+    /* types of borders are dotted, dash */
+
+    /*BORDER RADIUS */
+    /* it helps to curve */
+    border-radius: 25px;
+    border-top-right-radius: 70px;
+    border-bottom-left-radius: 70px; /* same with other corners*/
+
+}
+
+div{
+    width: 200px;
+    height: 200px;
+    background-color: royalblue;
+
+    border-radius: 50%;
+    /* to create circle (first create a square and half the radius og W&H) */
+
+}
+
+h2{
+    width: 75px;
+    height: 30px;
+    background-color: gray;
+    padding: 20px;
+    border: 6px solid black;
+    margin-left: 80px;
+    margin-top: 50px;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 25px;
+
+
+}

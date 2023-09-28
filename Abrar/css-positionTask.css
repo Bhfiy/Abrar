@@ -1,0 +1,43 @@
+.parent{
+    width: 800px;
+    height: 400px;
+    background-color: red;
+    display: flex;
+    position: absolute; 
+}
+.child01{
+    width: 70px;
+    height: 70px;
+    background-color: blue;
+}
+.child02{
+    width: 70px;
+    height: 70px;
+    background-color: pink;
+    position:absolute;
+    top: 0px;
+    right: 0px;
+}
+.child03{
+    width: 70px;
+    height: 70px;
+    background-color: purple;
+    position: absolute;
+    left: 450px;
+    top: 55%;
+}
+.child04{
+    width: 70px;
+    height: 70px;
+    background-color: yellow;
+    position: absolute;
+    bottom: 0px;
+}
+.child05{
+    width: 70px;
+    height: 70px;
+    background-color: green;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}

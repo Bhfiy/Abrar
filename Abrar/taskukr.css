@@ -1,0 +1,16 @@
+.container{
+    width: 1000px;
+    height: 500px;
+    border: 6px solid black;
+    display: flex;
+}
+.child01{
+    width: 500px;
+    height: 500px;
+    background-color: yellow;
+}
+.child02{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(74, 93, 155);
+}

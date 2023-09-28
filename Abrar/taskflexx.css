@@ -1,0 +1,24 @@
+.parent01{
+    width: 1200px;
+    height: 200px;
+    border: 4px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+.child{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(135, 135, 240);
+}
+.parent02{
+    width: 1200px;
+    height: 200px;
+    border: 4px solid black;
+    display: flex;
+    justify-content: space-around;
+}
+.child01{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(135, 135, 240);
+}
